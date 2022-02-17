@@ -1,0 +1,3 @@
+FOR triad{a, b, c} in some list/data structure
+	sort(a, b, c)
+	display output

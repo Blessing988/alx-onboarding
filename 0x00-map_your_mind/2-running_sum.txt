@@ -1,0 +1,11 @@
+sum = 0
+
+WHILE TRUE:
+	number = INPUT()
+	
+	IF number >=0
+		sum = sum + number
+	
+	ELSE : BREAK
+		RETURN sum
+END
